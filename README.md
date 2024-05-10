@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💗
 
-<!--
-**tsuxz/tsuxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nycolas Haraguti
 
-Here are some ideas to get you started:
+- 17 anos
+- Estudante do ensino médio
+- Descobrindo mais sobre progamação
+- Utilizo esse espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entre em contato comigo 📧
+
+0000120405213xsp@al.educacao.sp.gov.br
+  
+@Tsuxz
+
+![image](https://github.com/tsuxz/tsuxz/assets/169275304/88deb625-61a9-4378-aa07-8e939373d74b)![]()
+
