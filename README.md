@@ -13,5 +13,4 @@ Meu nome é Nycolas Haraguti
   
 @Tsuxz
 
-![image](https://github.com/tsuxz/tsuxz/assets/169275304/88deb625-61a9-4378-aa07-8e939373d74b)![]()
-
+![](https://tenor.com/bMY0l.gif)
